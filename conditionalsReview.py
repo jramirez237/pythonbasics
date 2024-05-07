@@ -15,3 +15,4 @@ elif weather == "cold":
 # If the input doesn't match any category, inform the user with a message saying the input was not recognized.
 else:
     print("input not recognized")
+

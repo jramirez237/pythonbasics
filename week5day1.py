@@ -4,7 +4,7 @@ score = int(input("Enter your score: "))
 
 #Implement the logic to determine the grade based on the score:
 # A score of 90 and above is an "A".
-if score >= 90:
+if score >= 90 and score <=100:
     print("A")
 # A score of 80 to 89 is a "B".
 elif score >= 80 and score <90:

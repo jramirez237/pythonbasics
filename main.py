@@ -33,7 +33,41 @@
 # print("the price of the book is " + str(price))
 # #getting input from the user
 
-name = input("What is your name? ")
-age = input("What is your age? ")
-occupation = input("What is your occupation? ")
-print("Hello " + name + " you are " + age + " years old and you are a " + occupation)
+# name = input("What is your name? ")
+# age = input("What is your age? ")
+# occupation = input("What is your occupation? ")
+# print("Hello " + name + " you are " + age + " years old and you are a " + occupation)
+
+
+
+
+
+
+# averagegrade=input("What is your average grade? ")
+# numextracurricular=input("How many extracurriculars? ")
+# awardacademic=input("What rewards have you earned? ")
+# votes=int(input("voters "))
+# recognitions=input("What recognittions do you have?")
+
+# if averagegrade >=85:
+#     print("honor roll")
+
+# if numextracurricular>3:
+#     print("high involvement")
+
+# print("Categories are most likely to succeed, class artist")
+
+# studentinput=input("Which category")
+
+# if studentinput==("most likely to succeed"):
+#     print("voted for most likely to succeed")
+# elif studentinput==("class artist"):
+#     print("voted for class artist")
+
+# print(("awards: ")+ awardacademic)
+# print(("rognitions: ")+ recognitions)
+
+# nomination=input("Who would you like to nominate for the 'Friendliest Student? ")
+# print(nomination)
+
+# print("thank you for participating")
